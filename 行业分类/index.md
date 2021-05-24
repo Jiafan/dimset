@@ -11,3 +11,9 @@
 	[银联商户分类编码](./商户分类编码\ MCC.csv)
 
 	[取数源 MCC 查询](https://open.unionpay.com/tjwx/openapi/mchnt-mcc.html)
+
+3. 中信银行：商户分类编码
+
+	[中信银行商户分类编码](./行业分类/中信银行MCC分类.csv)
+	
+	[取数源：中信商户分类编码](https://creditcard.ecitic.com/heyue/xieyi20.html)
